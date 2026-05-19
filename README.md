@@ -61,7 +61,7 @@ Antes de comenzar debes instalar:
 # 📥 Clonar el Proyecto
 
 ```bash
-git clone https://github.com/TU-USUARIO/calificaciones-docker.git
+git clone https://github.com/TU-USUARIO/calificaciones-docker-phalcon.git
 cd calificaciones-docker
 ```
 
