@@ -62,7 +62,7 @@ Antes de comenzar debes instalar:
 
 ```bash
 git clone https://github.com/TU-USUARIO/calificaciones-docker-phalcon.git
-cd calificaciones-docker
+cd calificaciones-docker-phalcon
 ```
 
 ---
